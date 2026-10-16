@@ -1,0 +1,9 @@
+{
+  "name": "performance-profiling",
+  "version": "1.0.0",
+  "description": "Find performance bottlenecks using evidence before optimizing code.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}

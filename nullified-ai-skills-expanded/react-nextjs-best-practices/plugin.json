@@ -1,0 +1,9 @@
+{
+  "name": "react-nextjs-best-practices",
+  "version": "1.0.0",
+  "description": "Apply practical React and Next.js performance, architecture, and implementation best practices.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}

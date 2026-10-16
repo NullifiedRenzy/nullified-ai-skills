@@ -1,0 +1,9 @@
+{
+  "name": "minecraft-plugin-development",
+  "version": "1.0.0",
+  "description": "Develop and troubleshoot Minecraft Java server plugins with compatibility and permission safety.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}

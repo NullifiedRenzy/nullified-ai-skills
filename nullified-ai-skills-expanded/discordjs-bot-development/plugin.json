@@ -1,0 +1,9 @@
+{
+  "name": "discordjs-bot-development",
+  "version": "1.0.0",
+  "description": "Build and maintain Discord.js bots with secure commands, permissions, and robust interactions.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}
