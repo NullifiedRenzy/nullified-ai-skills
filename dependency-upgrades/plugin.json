@@ -1,0 +1,9 @@
+{
+  "name": "dependency-upgrades",
+  "version": "1.0.0",
+  "description": "Evaluate and apply dependency upgrades carefully with compatibility checks and rollback awareness.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}

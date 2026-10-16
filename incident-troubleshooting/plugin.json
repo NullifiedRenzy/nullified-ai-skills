@@ -1,0 +1,9 @@
+{
+  "name": "incident-troubleshooting",
+  "version": "1.0.0",
+  "description": "Troubleshoot service failures systematically using logs, health checks, and safe recovery steps.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}

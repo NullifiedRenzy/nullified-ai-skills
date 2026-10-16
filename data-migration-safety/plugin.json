@@ -1,0 +1,9 @@
+{
+  "name": "data-migration-safety",
+  "version": "1.0.0",
+  "description": "Plan safe data migrations with validation, backups, and rollback strategies.",
+  "author": {
+    "name": "NullifiedRenzy"
+  },
+  "license": "MIT"
+}
