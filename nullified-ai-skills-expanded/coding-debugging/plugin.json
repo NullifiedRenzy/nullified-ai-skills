@@ -1,9 +1,0 @@
-{
-  "name": "coding-debugging",
-  "version": "1.0.0",
-  "description": "Diagnose coding problems, make minimal fixes, and verify results.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

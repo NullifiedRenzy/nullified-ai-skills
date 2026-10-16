@@ -1,9 +1,0 @@
-{
-  "name": "api-design-validation",
-  "version": "1.0.0",
-  "description": "Design and review APIs with clear contracts, validation, authorization, and predictable errors.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

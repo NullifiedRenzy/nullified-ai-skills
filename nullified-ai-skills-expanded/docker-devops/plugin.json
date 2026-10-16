@@ -1,9 +1,0 @@
-{
-  "name": "docker-devops",
-  "version": "1.0.0",
-  "description": "Develop and troubleshoot Docker, Docker Compose, and repeatable development environments.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

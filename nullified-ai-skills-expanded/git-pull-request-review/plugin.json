@@ -1,9 +1,0 @@
-{
-  "name": "git-pull-request-review",
-  "version": "1.0.0",
-  "description": "Review Git diffs and pull requests for correctness, regressions, security, and maintainability.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

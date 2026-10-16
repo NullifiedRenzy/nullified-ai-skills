@@ -1,9 +1,0 @@
-{
-  "name": "database-prisma-migrations",
-  "version": "1.0.0",
-  "description": "Work safely with relational databases, Prisma schemas, queries, and migrations.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "project-awareness",
-  "version": "1.0.0",
-  "description": "Understand repository architecture, conventions, dependencies, and project context before editing.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

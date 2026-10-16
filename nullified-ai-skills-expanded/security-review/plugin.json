@@ -1,9 +1,0 @@
-{
-  "name": "security-review",
-  "version": "1.0.0",
-  "description": "Review code for common security issues and protect secrets while proposing actionable fixes.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

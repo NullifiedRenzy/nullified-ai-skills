@@ -1,9 +1,0 @@
-{
-  "name": "ui-accessibility-review",
-  "version": "1.0.0",
-  "description": "Review interfaces for usability, responsive layout, accessibility, and consistent design systems.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

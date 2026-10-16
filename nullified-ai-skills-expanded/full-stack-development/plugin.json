@@ -1,9 +1,0 @@
-{
-  "name": "full-stack-development",
-  "version": "1.0.0",
-  "description": "Build and maintain full-stack TypeScript and JavaScript applications using existing project conventions.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "testing-quality",
-  "version": "1.0.0",
-  "description": "Choose and run appropriate tests, linting, type checks, and builds, then report results honestly.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "observability-logging",
-  "version": "1.0.0",
-  "description": "Improve logs, metrics, traces, and health checks without leaking sensitive information.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

@@ -1,9 +1,0 @@
-{
-  "name": "proxmox-homelab-operations",
-  "version": "1.0.0",
-  "description": "Help operate Proxmox and homelab services with careful checks around storage, networking, and backups.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}

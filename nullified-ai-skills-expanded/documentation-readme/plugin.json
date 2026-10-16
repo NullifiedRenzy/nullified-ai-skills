@@ -1,9 +1,0 @@
-{
-  "name": "documentation-readme",
-  "version": "1.0.0",
-  "description": "Write and maintain accurate READMEs, setup instructions, API documentation, and changelogs.",
-  "author": {
-    "name": "NullifiedRenzy"
-  },
-  "license": "MIT"
-}
